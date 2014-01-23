@@ -1,0 +1,1 @@
+enum 4 1 2,doif dead gt 0,doif baby gt 0,sys: camt,dde: putv baby,setv var0 baby,setv var1 posl,addv var1 16,setv var2 limb,rndv var3 0 5,mulv var3 8,new: simp eggs 8 var3 2000 0,pose 0,setv clas 33882624,setv attr 64,setv obv0 var0,setv obv1 0,subv var2 hght,mvto var1 var2,slim,evnt targ,tick 900,dde: negg,endi,endi,next
