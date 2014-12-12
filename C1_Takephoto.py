@@ -1,4 +1,6 @@
 # -*- coding: cp1252 -*-
+# This file shows ho to use the Creatrures 1 dde: pict command to take a photo of current Norn
+# for more information see:
 import win32ui
 import dde
 import struct
