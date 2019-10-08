@@ -1,6 +1,6 @@
 # -*- coding: cp1252 -*-
 # This file shows ho to use the Creatrures 1 dde: pict command to take a photo of current Norn
-# for more information see:
+# for more information see: https://sheeslostknowledge.blogspot.com/2014/12/repairing-and-understanding-lost-dde.html
 import win32ui
 import dde
 import struct
